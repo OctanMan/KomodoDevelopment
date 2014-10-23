@@ -1,0 +1,12 @@
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Content\Koala.xnb
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Content\UnicornSprite.xnb
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Content\CthulhuSprite.xnb
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Content\CarrotGuySprite.xnb
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Content\GhostGuySprite.xnb
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Content\background.xnb
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Content\ProfilerFont.xnb
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Komodo.exe
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\bin\x86\Debug\Komodo.pdb
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\obj\x86\Debug\Komodo.exe
+C:\Users\Ben\Documents\KomodoDev\Komodo\Komodo\Komodo\obj\x86\Debug\Komodo.pdb
